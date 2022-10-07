@@ -28,9 +28,12 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: var(--bgc);
 }
-@media (max-width: 600px) {
+@media (min-width: 600px) {
   body {
     width: 100%;
+  }
+  .todo {
+    width: 60%;
   }
 }
 .title {

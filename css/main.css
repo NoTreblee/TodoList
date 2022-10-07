@@ -14,7 +14,7 @@
   --accent: #fca311;
 }
 h3 {
-  margin-bottom: 5px;;
+  margin-bottom: 5px;
   text-align: right;
   font-size: 8px;
   color: #fff;
@@ -99,7 +99,7 @@ h1 {
 
 .todolist {
   padding: 40px 0;
-  background-color: 
+  background-color: ;
 }
 
 .todolist h3 {

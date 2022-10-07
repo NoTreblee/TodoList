@@ -13,7 +13,7 @@
   --bgc: #14213d;
   --accent: #fca311;
 }
-h3 {
+.author {
   margin-bottom: 5px;
   text-align: right;
   font-size: 8px;
